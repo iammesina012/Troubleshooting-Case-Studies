@@ -1,8 +1,6 @@
 # Troubleshooting Case Studies
 
-I created this repository to document the real troubleshooting experiences I've had while working on my own computer. Instead of only listing technical skills, I wanted to show my troubleshooting process, the tools I used, the solutions I tried, and the lessons I learned from each scenario.
-
-My goal is to continue expanding this portfolio by adding new scenarios as I gain more experience and solve real-world IT problems.
+I created this repository to document the real troubleshooting experiences I've had while working on my own computer. I wanted to show my troubleshooting process, the tools I used, and the solutions I tried.
 
 ## Portfolio Contents
 
